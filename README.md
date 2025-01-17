@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **elgunqarayev030@gmail.com**
+- 📫 How to reach me **garayev.elgun.e@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 

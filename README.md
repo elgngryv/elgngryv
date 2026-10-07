@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Elgun Garayev</h1>
-<h3 align="center">A passionate frontend developer from Azerbaijan</h3>
+<h3 align="center">A passionate Fullsatck Developer from Azerbaijan</h3>
 <br clear="both">
 
 <div align="center">
